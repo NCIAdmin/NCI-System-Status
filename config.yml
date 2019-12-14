@@ -17,7 +17,7 @@ params:
   eventsPerPage: 10
   groups:
     - VLAN
-  logo: /images/NCI_Logo.svg
+  logo: /images/nci_logo.svg
   meta_description: >-
     This status page provides updated information about our systems normal
     operation, incidents that may happen and their resolution.
