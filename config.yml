@@ -5,10 +5,9 @@ params:
   dateFormat: 'January 2, 2006 at 15:00'
   description_footer: ''
   description_header: >-
-    Information about <a class='text-grey-darkest' title='Visit example.com'
-    href='https://www.example.com/'>example</a> systems operations.<br />Follow
-    us on this page or subscribe to <a class='text-grey-darkest' href='%s'
-    >RSS</a><br />to be alerted of new events.
+    Information about NCI systems operations. Follow us on this page or
+    subscribe to <a class='text-grey-darkest' href='%s' >RSS</a><br />to be
+    alerted of new events.
   eventsPerPage: 10
   groups:
     - VLAN
