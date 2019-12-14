@@ -5,16 +5,15 @@ params:
   dateFormat: 'January 2, 2006 at 15:00'
   description_footer: ''
   description_header: >-
-    Information about NCI systems operations. Follow us on this page or
-    subscribe to <a class='text-grey-darkest' href='%s' >RSS</a>to be alerted of
-    new events.
+    Check status on this page or subscribe to <a class='text-grey-darkest'
+    href='%s' >RSS</a>to be alerted of new events.
   eventsPerPage: 10
   groups:
     - VLAN
   logo: /images/logo.svg
   meta_description: >-
-    This status page provides updated information about NCI systems normal
-    operation, incidents that may happen and their resolution.
+    NCI system status page which provides updated information about operations
+    status, incidents and their resolution.
   shortDateFormat: 'Jan 2 -- 15:04'
   systems:
     - description: VA (Virginia) VPN Server
