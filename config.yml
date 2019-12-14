@@ -1,25 +1,20 @@
 title: NCI Systems Status Page
 languageCode: en
 params:
-  copyrightHolder: Example Inc.
+  copyrightHolder: National Captioning Institute.
   dateFormat: 'January 2, 2006 at 15:00'
-  description_footer: >-
-    <a class='text-grey-darkest' title='Visit example.com'
-    href='https://www.example.com/'>Example.com</a> provides open-source
-    software for all kind of sectors.
+  description_footer: ''
   description_header: >-
     Information about <a class='text-grey-darkest' title='Visit example.com'
     href='https://www.example.com/'>example</a> systems operations.<br />Follow
-    us <a class='text-grey-darkest' title='Visit our page on Twitter'
-    href='https://www.twitter.com/example'>on Twitter</a> or subscribe to <a
-    class='text-grey-darkest' href='%s' >RSS</a><br />to be alerted of new
-    events.
+    us on this page or subscribe to <a class='text-grey-darkest' href='%s'
+    >RSS</a><br />to be alerted of new events.
   eventsPerPage: 10
   groups:
     - VLAN
   logo: /images/logo.svg
   meta_description: >-
-    This status page provides updated information about our systems normal
+    This status page provides updated information about NCI systems normal
     operation, incidents that may happen and their resolution.
   shortDateFormat: 'Jan 2 -- 15:04'
   systems:
