@@ -6,8 +6,8 @@ params:
   description_footer: ''
   description_header: >-
     Information about NCI systems operations. Follow us on this page or
-    subscribe to <a class='text-grey-darkest' href='%s' >RSS</a><br />to be
-    alerted of new events.
+    subscribe to <a class='text-grey-darkest' href='%s' >RSS</a>to be alerted of
+    new events.
   eventsPerPage: 10
   groups:
     - VLAN
