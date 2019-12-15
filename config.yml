@@ -33,4 +33,6 @@ params:
         began in Nov 2019.
       group: VLAN
       name: VPN - CATO
+    - group: CCP
+      name: CA - CCP
   timezoneString: EST
