@@ -1,6 +1,6 @@
 ---
 section: issue
-title: System Down
+title: VPN Alert
 date: 2019-11-19T21:03:00.000Z
 status: in_progress
 current_severity: down
