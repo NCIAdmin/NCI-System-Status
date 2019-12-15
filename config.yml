@@ -5,8 +5,8 @@ params:
   dateFormat: 'January 2, 2006 at 15:00'
   description_footer: ''
   description_header: >-
-    Check status on this page or subscribe to <a class='text-grey-darkest'
-    href='%s' >RSS</a>to be alerted of new events.
+    Better systems status communication.  This page provides information about
+    operations status, incidents, and their resolution.
   eventsPerPage: 10
   groups:
     - VLAN
