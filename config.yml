@@ -4,7 +4,9 @@ params:
   copyrightHolder: National Captioning Institute.
   dateFormat: 'January 2, 2006 at 15:00'
   description_footer: ''
-  description_header: ''
+  description_header: >-
+    This page provides information about operations status, incidents, and
+    resolutions.
   eventsPerPage: 10
   groups:
     - VLAN
