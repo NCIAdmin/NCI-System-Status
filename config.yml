@@ -8,6 +8,7 @@ params:
   eventsPerPage: 10
   groups:
     - VLAN
+    - CCP
   logo: /images/logo.png
   meta_description: >-
     NCI system status page which provides updated information about operations
