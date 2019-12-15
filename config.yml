@@ -9,6 +9,9 @@ params:
   groups:
     - VLAN
     - CCP
+    - Joblink
+    - Office365
+    - ''
   logo: /images/logo.png
   meta_description: >-
     NCI system status page which provides updated information about operations
@@ -32,5 +35,6 @@ params:
       group: VLAN
       name: CATO VON
     - description: CA (California) CCP
+      group: VLAN
       name: CCP - CA
   timezoneString: EST
