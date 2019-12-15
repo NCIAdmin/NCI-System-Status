@@ -5,13 +5,13 @@ params:
   dateFormat: 'January 2, 2006 at 15:00'
   description_footer: ''
   description_header: >-
-    Better systems status communication.  This page provides information about
-    operations status, incidents, and their resolution.
+    This page provides information about operations status, incidents, and
+    resolutions.
   eventsPerPage: 10
   groups:
     - VLAN
     - CCP
-  logo: /images/logo.jpg
+  logo: /images/Logo.jpg
   meta_description: >-
     NCI system status page which provides updated information about operations
     status, incidents and their resolution.
