@@ -10,6 +10,7 @@ params:
   eventsPerPage: 10
   groups:
     - VLAN
+    - CCP
   logo: /images/logo.jpg
   meta_description: >-
     NCI system status page which provides updated information about operations
@@ -18,14 +19,14 @@ params:
   systems:
     - description: VA (Virginia) VPN Server
       link: ''
-      name: VA VPN
+      name: VPN - VA
     - description: RM (Remote) VPN Server
       link: ''
-      name: RM VPN
+      name: VPN - RM
     - description: CA (California) VPN
-      name: CA VPN
+      name: VPN - CA
     - description: >-
         CATO VPN - NCI's new SD-WAN VPN.  Configuration / Testing / Beta Release
         began in Nov 2019.
-      name: CATO VON
+      name: VPN - CATO
   timezoneString: EST
