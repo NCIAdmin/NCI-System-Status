@@ -16,15 +16,19 @@ params:
   shortDateFormat: 'Jan 2 -- 15:04'
   systems:
     - description: VA (Virginia) VPN Server
+      group: VLAN
       link: ''
       name: VA VPN
     - description: RM (Remote) VPN Server
+      group: VLAN
       link: ''
       name: RM VPN
     - description: CA (California) VPN
+      group: VLAN
       name: CA VPN
     - description: >-
         CATO VPN - NCI's new SD-WAN VPN.  Configuration / Testing / Beta Release
         began in Nov 2019.
+      group: VLAN
       name: CATO VON
   timezoneString: EST
