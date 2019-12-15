@@ -31,4 +31,6 @@ params:
         began in Nov 2019.
       group: VLAN
       name: CATO VON
+    - description: CA (California) CCP
+      name: CCP - CA
   timezoneString: EST
