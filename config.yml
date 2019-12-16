@@ -12,6 +12,7 @@ params:
     - Joblink Resources
     - Reports
     - 3rd Party Status Pages
+    - File Sharing Services
   logo: /images/clearstatus.svg
   meta_description: >-
     NCI system status page which provides updated information about operations
@@ -71,4 +72,9 @@ params:
       group: 3rd Party Status Pages
       link: 'http://status.sharefile.com/'
       name: Sharefile System Status
+    - description: FTP Server used for file exchange with clients
+      name: FTP Server
+    - description: Sharefile SaaS Service used to exchange files with clients
+      link: 'https://ncicap.sharefile.com'
+      name: Sharefile Service
   timezoneString: EST
