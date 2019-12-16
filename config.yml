@@ -82,9 +82,12 @@ params:
       link: 'https://ncicap.sharefile.com'
       name: Sharefile Service
     - description: CA Domain Controller
-      group: 3rd Party Status Pages
-      name: Domain Controller - CA
+      group: Domain Controllers
+      name: DC - CA
     - description: RM Domain Controller
-      name: Domain Controller - RM
-    - name: VA Domain Controller
+      group: Domain Controllers
+      name: DC - RM
+    - description: VA Domain Controller
+      group: Domain Controllers
+      name: DC - VA
   timezoneString: EST
