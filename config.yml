@@ -67,4 +67,8 @@ params:
     - description: Monthly Program Ending Reports mailed to Marketing monthly
       group: Reports
       name: Joblink Program Ending Report
+    - description: 'Sharefile System Status page, provided by Citrix'
+      group: 3rd Party Status Pages
+      link: 'http://status.sharefile.com/'
+      name: Sharefile System Status
   timezoneString: EST
