@@ -4,8 +4,8 @@ title: FTP Server
 date: 2019-11-15T19:34:13.534Z
 status: resolved
 pinned: ''
-current_severity: disrupted
-max_severity: disrupted
+current_severity: maintenance
+max_severity: maintenance
 duration: ''
 resolved_on: 2019-11-18T19:34:13.548Z
 affected:
