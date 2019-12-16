@@ -74,6 +74,9 @@ params:
     - description: Monthly Program Ending Reports mailed to Marketing monthly
       group: Reports
       name: Joblink Program Ending Report
+    - description: Network j-drive files
+      group: File Sharing Services
+      name: Network Group Drive Files
     - description: 'Sharefile System Status page, provided by Citrix'
       group: 3rd Party Status Pages
       link: 'http://status.sharefile.com/'
@@ -100,7 +103,4 @@ params:
     - description: CapNET Tools - access via office or VPN
       group: CapNET Resources
       name: CapNET Tools
-    - description: Network j-drive files
-      group: File Sharing Services
-      name: Network Group Drive Files
   timezoneString: EST
