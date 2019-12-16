@@ -1,7 +1,7 @@
 ---
 section: issue
-title: VPN Alert
-date: 2019-11-19T21:03:00.000Z
+title: Nov 15 Incident
+date: 2019-11-15T21:03:00.000Z
 status: in_progress
 current_severity: down
 max_severity: down
@@ -9,6 +9,10 @@ resolved_on: 2019-12-15T05:00:00.000Z
 affected:
   - VPN - RM
   - VPN - CA
-enableComments: true
+  - VPN - VA
+  - Joblink Notifier
+enableComments: false
 ---
-ALERT: Hardware failure in CA and RM has taken these VPNs offline.
+Security Incident disrupted service to all Windows Servers and any VA/CA desktop computer that was powered on at the time AND any RM desktop that was connected via VPN.
+
+Impacted Systems include:
