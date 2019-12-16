@@ -22,14 +22,6 @@ params:
     status, incidents and their resolution.
   shortDateFormat: 'Jan 2 -- 15:04'
   systems:
-    - description: VA (Virginia) VPN Server
-      group: VPN Servers
-      link: ''
-      name: VPN - VA
-    - description: RM (Remote) VPN Server
-      group: VPN Servers
-      link: ''
-      name: VPN - RM
     - description: CA (California) VPN
       group: VPN Servers
       name: VPN - CA
@@ -38,6 +30,14 @@ params:
         began in Nov 2019.
       group: VPN Servers
       name: VPN - CATO
+    - description: RM (Remote) VPN Server
+      group: VPN Servers
+      link: ''
+      name: VPN - RM
+    - description: VA (Virginia) VPN Server
+      group: VPN Servers
+      link: ''
+      name: VPN - VA
     - description: CA (California) CCP Server
       group: CCP Servers
       name: CCP - CA
@@ -51,12 +51,12 @@ params:
       group: Joblink Resources
       link: ''
       name: Joblink
-    - description: Joblink Notifier (Robocalls)
-      group: Joblink Resources
-      name: Joblink Notifier
     - description: Joblink - Spanish
       group: Joblink Resources
       name: Joblink - ES
+    - description: Joblink Notifier (Robocalls)
+      group: Joblink Resources
+      name: Joblink Notifier
     - description: 'EEG''s iCap Status Page, provided by EEG'
       group: 3rd Party Status Pages
       link: 'https://status.icap.eegcloud.tv/'
@@ -97,4 +97,7 @@ params:
     - description: CapNET Tools - access via office or VPN
       group: CapNET Resources
       name: CapNET Tools
+    - description: Joblink DB
+      group: Joblink Resources
+      name: Joblink DB
   timezoneString: EST
