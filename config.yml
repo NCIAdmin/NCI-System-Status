@@ -73,7 +73,7 @@ params:
       group: 3rd Party Status Pages
       link: 'http://status.sharefile.com/'
       name: Sharefile System Status
-    - description: FTP Server used for file exchange with clients
+    - description: Decomissioned 11-18-2019
       group: Decomissioned
       name: FTP Server
     - description: Sharefile SaaS Service used to exchange files with clients
