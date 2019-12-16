@@ -43,9 +43,9 @@ params:
       name: Joblink Notifier
     - description: Joblink - Spanish
       name: Joblink - ES
-    - description: EEG's iCap Status Page
+    - description: 'EEG''s iCap Status Page, provided by EEG'
       link: 'https://status.icap.eegcloud.tv/'
-      name: iCap Status Page
+      name: iCap Status
     - description: 'Office 365 Portal Status Page, provide by Microsoft'
       link: 'https://portal.office.com/servicestatus'
       name: Office 365 Portal Status
