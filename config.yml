@@ -61,4 +61,10 @@ params:
       group: 3rd Party Status Pages
       link: 'https://portal.office.com/servicestatus'
       name: Office 365 Portal Status
+    - description: 'Joblink backup schedules mailed 2x daily, 6:00 and 18:00'
+      group: Reports
+      name: Joblink Backup Schedules
+    - description: Monthly Program Ending Reports mailed to Marketing monthly
+      group: Reports
+      name: Joblink Program Ending Report
   timezoneString: EST
