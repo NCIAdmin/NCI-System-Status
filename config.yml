@@ -7,15 +7,15 @@ params:
   description_header: ''
   eventsPerPage: 10
   groups:
-    - VPN Servers
+    - CapNET Resources
     - CCP Servers
-    - Joblink Resources
-    - Reports
-    - 3rd Party Status Pages
-    - File Sharing Services
     - Decomissioned
     - Domain Controllers
-    - CapNET Resources
+    - File Sharing Services
+    - Joblink Resources
+    - Reports
+    - VPN Servers
+    - 3rd Party Status Pages
   logo: /images/clearstatus.svg
   meta_description: >-
     NCI system status page which provides updated information about operations
@@ -54,6 +54,9 @@ params:
     - description: Joblink - Spanish
       group: Joblink Resources
       name: Joblink - ES
+    - description: Joblink DB
+      group: Joblink Resources
+      name: Joblink DB
     - description: Joblink Notifier (Robocalls)
       group: Joblink Resources
       name: Joblink Notifier
@@ -97,7 +100,4 @@ params:
     - description: CapNET Tools - access via office or VPN
       group: CapNET Resources
       name: CapNET Tools
-    - description: Joblink DB
-      group: Joblink Resources
-      name: Joblink DB
   timezoneString: EST
