@@ -44,7 +44,7 @@ params:
       name: CCP - VA
     - description: Joblink - English
       group: Joblink
-      link: 'http://joblink.ncicap.org'
+      link: ''
       name: Joblink
     - description: Joblink Notifier (Robocalls)
       group: Joblink
@@ -52,4 +52,7 @@ params:
     - description: Joblink - Spanish
       group: Joblink
       name: Joblink - ES
+    - description: EEG's iCap Status Page
+      link: 'https://status.icap.eegcloud.tv/'
+      name: iCap Status Page
   timezoneString: EST
