@@ -9,7 +9,6 @@ resolved_on: 2019-12-15T05:00:00.000Z
 affected:
   - VPN - RM
   - VPN - CA
-  - VPN - VA
   - Joblink Notifier
   - Joblink Backup Schedules
   - Joblink Program Ending Report
