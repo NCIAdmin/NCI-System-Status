@@ -42,4 +42,14 @@ params:
     - description: VA (Virginia) CCP Server
       group: CCP
       name: CCP - VA
+    - description: Joblink - English
+      group: Joblink
+      link: 'http://joblink.ncicap.org'
+      name: Joblink
+    - description: Joblink Notifier (Robocalls)
+      group: Joblink
+      name: Joblink Notifier
+    - description: Joblink - Spanish
+      group: Joblink
+      name: Joblink - ES
   timezoneString: EST
