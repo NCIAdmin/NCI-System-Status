@@ -9,8 +9,8 @@ max_severity: disrupted
 duration: ''
 resolved_on: 2019-11-18T19:34:13.548Z
 affected:
-  - Joblink - ES
+  - FTP Server
 twitterFeed: ''
-enableComments: true
+enableComments: false
 ---
-
+The legacy on-premise FTP server was decommissioned following the Nov 15 incident.  The service has been replaced with Sharefile ([ncicap.sharefile.com](https://ncicap.sharefile.com))
