@@ -7,7 +7,7 @@ params:
   description_header: ''
   eventsPerPage: 10
   groups:
-    - VLAN Servers
+    - VPN Servers
     - CCP Servers
     - Joblink Resources
     - Reports
