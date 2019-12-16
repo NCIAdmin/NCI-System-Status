@@ -13,6 +13,7 @@ params:
     - Reports
     - 3rd Party Status Pages
     - File Sharing Services
+    - Decomissioned
   logo: /images/clearstatus.svg
   meta_description: >-
     NCI system status page which provides updated information about operations
