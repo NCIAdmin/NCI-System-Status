@@ -3,7 +3,7 @@ languageCode: en
 params:
   copyrightHolder: National Captioning Institute.
   dateFormat: 'January 2, 2006 at 15:00'
-  description_footer: ''
+  description_footer: ' '
   description_header: ''
   eventsPerPage: 10
   groups:
