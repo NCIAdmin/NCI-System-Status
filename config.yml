@@ -92,7 +92,9 @@ params:
       group: Domain Controllers
       name: DC - VA
     - description: CapNet DB
+      group: CapNET Resources
       name: CapNET DB
     - description: CapNET Tools
+      group: CapNET Resources
       name: CapNET Tools
   timezoneString: EST
