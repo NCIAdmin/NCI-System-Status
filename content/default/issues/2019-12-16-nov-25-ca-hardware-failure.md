@@ -11,6 +11,7 @@ resolved_on: ''
 affected:
   - VPN - CA
   - CCP - CA
+  - Domain Controller - CA
 twitterFeed: ''
 enableComments: false
 ---
