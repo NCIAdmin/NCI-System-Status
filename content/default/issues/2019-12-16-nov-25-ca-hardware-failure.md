@@ -16,6 +16,6 @@ enableComments: false
 ---
 There has been a hardware failure in CA which is impacting services.
 
-UPDATE 12/16 - Replacement part has been indentified and ordered.  Awaiting receipt.
+UPDATE 12-16 - Replacement part has been identified and ordered.  Awaiting receipt.
 
 Impacted Systems Include:
