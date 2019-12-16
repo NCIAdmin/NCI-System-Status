@@ -11,7 +11,7 @@ params:
     - CCP
     - Joblink
     - Reports
-  logo: /images/nci_logo.svg
+  logo: /images/clearstatus.svg
   meta_description: >-
     NCI system status page which provides updated information about operations
     status, incidents and their resolution.
