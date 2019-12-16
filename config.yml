@@ -76,6 +76,7 @@ params:
     - description: FTP Server used for file exchange with clients
       name: FTP Server
     - description: Sharefile SaaS Service used to exchange files with clients
+      group: File Sharing Services
       link: 'https://ncicap.sharefile.com'
       name: Sharefile Service
   timezoneString: EST
