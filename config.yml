@@ -7,7 +7,11 @@ params:
   description_header: ''
   eventsPerPage: 10
   groups:
-    - ''
+    - VLAN Servers
+    - CCP Servers
+    - Joblink Resources
+    - Reports
+    - 3rd Party Status Pages
   logo: /images/clearstatus.svg
   meta_description: >-
     NCI system status page which provides updated information about operations
