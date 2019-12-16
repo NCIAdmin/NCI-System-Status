@@ -11,8 +11,10 @@ affected:
   - VPN - CA
   - VPN - VA
   - Joblink Notifier
+  - Joblink Backup Schedules
+  - Joblink Program Ending Report
 enableComments: false
 ---
 Security Incident disrupted service to all Windows Servers and any VA/CA desktop computer that was powered on at the time AND any RM desktop that was connected via VPN.
 
-Impacted Systems include:
+Systems that have not yet returned to service include:
