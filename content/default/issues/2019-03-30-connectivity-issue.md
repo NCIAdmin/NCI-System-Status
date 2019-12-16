@@ -5,7 +5,7 @@ date: 2019-11-19T21:03:00.000Z
 status: in_progress
 current_severity: down
 max_severity: down
-resolved_on: ''
+resolved_on: 2019-12-15T05:00:00.000Z
 affected:
   - VPN - RM
   - VPN - CA
