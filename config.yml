@@ -16,7 +16,7 @@ params:
     - Reports
     - VPN Servers
     - 3rd Party Status Pages
-  logo: /images/clearstatus.svg
+  logo: /images/ncilogo.svg
   meta_description: >-
     NCI system status page which provides updated information about operations
     status, incidents and their resolution.
