@@ -46,4 +46,7 @@ params:
     - description: EEG's iCap Status Page
       link: 'https://status.icap.eegcloud.tv/'
       name: iCap Status Page
+    - description: 'Office 365 Portal Status Page, provide by Microsoft'
+      link: 'https://portal.office.com/servicestatus'
+      name: Office 365 Portal Status
   timezoneString: EST
