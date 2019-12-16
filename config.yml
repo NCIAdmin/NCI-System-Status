@@ -19,39 +19,29 @@ params:
   shortDateFormat: 'Jan 2 -- 15:04'
   systems:
     - description: VA (Virginia) VPN Server
-      group: VLAN
       link: ''
       name: VPN - VA
     - description: RM (Remote) VPN Server
-      group: VLAN
       link: ''
       name: VPN - RM
     - description: CA (California) VPN
-      group: VLAN
       name: VPN - CA
     - description: >-
         CATO VPN - NCI's new SD-WAN VPN.  Configuration / Testing / Beta Release
         began in Nov 2019.
-      group: VLAN
       name: VPN - CATO
     - description: CA (California) CCP Server
-      group: CCP
       name: CCP - CA
     - description: RM (Remote) CCP Server
-      group: CCP
       name: CCP - RM
     - description: VA (Virginia) CCP Server
-      group: CCP
       name: CCP - VA
     - description: Joblink - English
-      group: Joblink
       link: ''
       name: Joblink
     - description: Joblink Notifier (Robocalls)
-      group: Joblink
       name: Joblink Notifier
     - description: Joblink - Spanish
-      group: Joblink
       name: Joblink - ES
     - description: EEG's iCap Status Page
       link: 'https://status.icap.eegcloud.tv/'
