@@ -15,6 +15,7 @@ params:
     - File Sharing Services
     - Decomissioned
     - Domain Controllers
+    - CapNET Resources
   logo: /images/clearstatus.svg
   meta_description: >-
     NCI system status page which provides updated information about operations
@@ -90,4 +91,8 @@ params:
     - description: VA Domain Controller
       group: Domain Controllers
       name: DC - VA
+    - description: CapNet DB
+      name: CapNET DB
+    - description: CapNET Tools
+      name: CapNET Tools
   timezoneString: EST
