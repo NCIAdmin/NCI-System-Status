@@ -5,7 +5,7 @@ date: 2019-11-15T19:34:13.534Z
 status: resolved
 pinned: ''
 current_severity: maintenance
-max_severity: maintenance
+max_severity: down
 duration: ''
 resolved_on: 2019-11-18T19:34:13.548Z
 affected:
