@@ -8,6 +8,7 @@ params:
   eventsPerPage: 10
   groups:
     - CapNET Resources
+    - CaptionSentry Servers
     - CCP Servers
     - Decomissioned
     - Domain Controllers
