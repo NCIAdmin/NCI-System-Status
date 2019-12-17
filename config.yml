@@ -107,13 +107,22 @@ params:
     - name: CA-CS-01
     - name: CA-CS-02
     - name: CA-CS-03
-    - name: RM-CS-01
-    - name: RM-CS-02
-    - name: RM-CS-03
-    - name: RM-CS-04
-    - name: RM-CS-05
-    - name: RM-CS-06
-    - name: VA-CS-01
-    - name: VA-CS-02
-    - name: VA-CS-03
+    - group: CaptionSentry Servers
+      name: RM-CS-01
+    - group: CaptionSentry Servers
+      name: RM-CS-02
+    - group: CaptionSentry Servers
+      name: RM-CS-03
+    - group: CaptionSentry Servers
+      name: RM-CS-04
+    - group: CaptionSentry Servers
+      name: RM-CS-05
+    - group: CaptionSentry Servers
+      name: RM-CS-06
+    - group: CaptionSentry Servers
+      name: VA-CS-01
+    - group: CaptionSentry Servers
+      name: VA-CS-02
+    - group: CaptionSentry Servers
+      name: VA-CS-03
   timezoneString: EST
