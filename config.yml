@@ -70,10 +70,10 @@ params:
       name: Office 365 Portal Status
     - description: 'Joblink backup schedules mailed 2x daily, 6:00 and 18:00'
       group: Reports
-      name: Joblink Backup Schedules
+      name: 'RPT - Backup Schedules, Joblink'
     - description: Monthly Program Ending Reports mailed to Marketing monthly
       group: Reports
-      name: Joblink Program Ending Report
+      name: RPT- Program Ending
     - description: Network j-drive files
       group: File Sharing Services
       name: Network Group Drive Files
