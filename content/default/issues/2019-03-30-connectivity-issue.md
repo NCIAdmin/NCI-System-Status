@@ -9,8 +9,8 @@ resolved_on: 2019-12-15T05:00:00.000Z
 affected:
   - VPN - RM
   - VPN - CA
-  - Joblink Backup Schedules
-  - Joblink Program Ending Report
+  - 'RPT - Backup Schedules, Joblink'
+  - RPT- Program Ending
 enableComments: false
 ---
 Security Incident disrupted service to all Windows Servers and any VA/CA desktop computer that was powered on at the time AND any RM desktop that was connected via VPN.
