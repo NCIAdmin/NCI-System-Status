@@ -73,7 +73,7 @@ params:
       name: 'RPT - Backup Schedules, Joblink'
     - description: Monthly Program Ending Reports mailed to Marketing monthly
       group: Reports
-      name: RPT- Program Ending
+      name: 'RPT- Program Ending, Joblink'
     - description: Network j-drive files
       group: File Sharing Services
       name: Network Group Drive Files
