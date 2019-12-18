@@ -155,4 +155,7 @@ params:
     - description: RM - Network Drives Server
       group: File Sharing Services
       name: RM - File Server
+    - description: Report Writer and Scheduler Software
+      group: Management Servers
+      name: Reports Server
   timezoneString: EST
