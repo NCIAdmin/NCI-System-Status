@@ -125,6 +125,10 @@ params:
     - group: CaptionSentry Servers
       name: RM-CS-06
     - group: CaptionSentry Servers
+      name: RM-CS-07
+    - group: CaptionSentry Servers
+      name: RM-CS-08
+    - group: CaptionSentry Servers
       name: VA-CS-01
     - group: CaptionSentry Servers
       name: VA-CS-02
@@ -133,8 +137,4 @@ params:
     - description: 'Archive Files, Offline'
       group: File Sharing Services
       name: Offline Archives
-    - group: CaptionSentry Servers
-      name: RM-CS-07
-    - group: CaptionSentry Servers
-      name: RM-CS-08
   timezoneString: EST
