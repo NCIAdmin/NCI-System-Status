@@ -1,7 +1,7 @@
 ---
 section: issue
 title: Nov 25 - CA Hardware Failure
-date: 2019-11-15T19:34:13.534Z
+date: 2019-11-25T19:34:13.534Z
 status: in_progress
 pinned: ''
 current_severity: down
