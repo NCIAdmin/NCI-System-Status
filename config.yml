@@ -129,4 +129,7 @@ params:
       name: VA-CS-02
     - group: CaptionSentry Servers
       name: VA-CS-03
+    - description: 'Archive Files, Offline'
+      group: File Sharing Services
+      name: Offline Archives
   timezoneString: EST
