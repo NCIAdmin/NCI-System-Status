@@ -16,6 +16,6 @@ affected:
   - RM-CS-08
 enableComments: false
 ---
-Security Incident disrupted service to all Windows Servers and any VA/CA desktop computer that was powered on at the time AND any RM desktop that was connected via VPN.<br>
+Security Incident disrupted service to all Windows Servers and any VA/CA desktop computer that was powered on at the time AND any RM desktop that was connected via VPN.<br><br>
 
 Impacted systems still out of service are noted below:
