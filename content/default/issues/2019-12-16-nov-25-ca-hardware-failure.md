@@ -12,6 +12,7 @@ affected:
   - VPN - CA
   - CCP - CA
   - DC - CA
+  - CA - File & Print Server
 twitterFeed: ''
 enableComments: false
 ---
