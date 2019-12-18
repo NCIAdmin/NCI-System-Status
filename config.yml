@@ -140,4 +140,10 @@ params:
     - description: VPN server used to provide remote captioners pre-approved public IP
       group: VPN Servers
       name: VA-RAS
+    - description: Asset Tracking System
+      group: Management Servers
+      name: Lansweeper
+    - description: Anti-Virus Console
+      group: Management Servers
+      name: ESET AV Console
   timezoneString: EST
