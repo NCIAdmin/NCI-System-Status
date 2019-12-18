@@ -133,4 +133,8 @@ params:
     - description: 'Archive Files, Offline'
       group: File Sharing Services
       name: Offline Archives
+    - group: CaptionSentry Servers
+      name: RM-CS-07
+    - group: CaptionSentry Servers
+      name: RM-CS-08
   timezoneString: EST
