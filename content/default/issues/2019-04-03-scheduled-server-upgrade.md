@@ -1,15 +1,14 @@
 ---
 section: issue
-title: Facility Maintenance
-date: 2019-12-18T14:00:00.000Z
+title: Dec 19 - Cato VPN Config Maintenance
+date: 2019-12-19T21:00:00.000Z
 status: scheduled
 current_severity: maintenance
 max_severity: maintenance
 duration: 60 mn
 resolved_on: ''
 affected:
-  - VPN - CA
-  - CCP - CA
+  - VPN - CATO
 enableComments: true
 ---
-Regularly scheduled maintenance
+Will be working with Cato Networks on VPN configuration
