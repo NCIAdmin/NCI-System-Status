@@ -14,4 +14,4 @@ affected:
 twitterFeed: ''
 enableComments: true
 ---
-Evaluating CS 1.21.0 prior to publishing to production servers
+Evaluating CS 1.21.0 prior to production release
