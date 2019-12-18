@@ -16,9 +16,7 @@ affected:
 twitterFeed: ''
 enableComments: true
 ---
-There has been a hardware failure in RM which is impacting services.<br><br>
-
-UPDATE(s)
+There has been a hardware failure in RM which is impacting services.<br><br>UPDATE(s)
 
 * 11-26  CCP Server returned to service
 * 11-26  Joblink returned to service
