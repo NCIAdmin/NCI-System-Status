@@ -137,9 +137,9 @@ params:
     - description: 'Archive Files, Offline'
       group: File Sharing Services
       name: Offline Archives
-    - description: VPN server used to provide remote captioners pre-approved public IP
+    - description: VA-RAS server used to provide remote captioners pre-approved public IP
       group: VPN Servers
-      name: VA-RAS
+      name: VPN - RAS
     - description: Asset Tracking System
       group: Management Servers
       name: Lansweeper
