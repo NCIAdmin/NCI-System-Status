@@ -137,4 +137,7 @@ params:
     - description: 'Archive Files, Offline'
       group: File Sharing Services
       name: Offline Archives
+    - description: VPN server used to provide remote captioners pre-approved public IP
+      group: VPN Servers
+      name: VA-RAS
   timezoneString: EST
