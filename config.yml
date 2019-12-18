@@ -158,4 +158,7 @@ params:
     - description: Report Writer and Scheduler Software
       group: Management Servers
       name: Reports Server
+    - description: Windows Deployment Server
+      group: Management Servers
+      name: WDS Server
   timezoneString: EST
