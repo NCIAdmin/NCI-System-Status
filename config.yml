@@ -146,4 +146,13 @@ params:
     - description: Anti-Virus Console
       group: Management Servers
       name: ESET AV Console
+    - description: CA - Network Drives and Network Printer Server
+      group: File Sharing Services
+      name: CA - File & Print Server
+    - description: VA - Network Drives and Network Printer Server
+      group: File Sharing Services
+      name: VA - File & Print Server
+    - description: RM - Network Drives Server
+      group: File Sharing Services
+      name: RM - File Server
   timezoneString: EST
