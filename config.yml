@@ -163,4 +163,4 @@ params:
       name: WDS Server
     - description: Instant Messaging Software
       name: Spark
-  timezoneString: EST
+  timezoneString: America/New York
