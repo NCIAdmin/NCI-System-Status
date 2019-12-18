@@ -161,4 +161,6 @@ params:
     - description: Windows Deployment Server
       group: Management Servers
       name: WDS Server
+    - description: Instant Messaging Software
+      name: Spark
   timezoneString: EST
