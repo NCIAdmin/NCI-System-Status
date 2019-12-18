@@ -162,6 +162,4 @@ params:
       name: WDS Server
     - description: Instant Messaging Software
       name: Spark
-    - description: Server used to create voice profiles
-      name: Profile Management Server
   timezoneString: ET
